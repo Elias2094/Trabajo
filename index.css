@@ -1,0 +1,74 @@
+
+h1 {
+    background: #0DFFF0;
+    color: blue;
+    font-size: 35px;
+}
+
+
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+
+body {
+    background: #000000;
+    color: #FFF;
+}
+
+p {
+    color: red;
+}
+
+
+h2 {
+font-size: 50px;
+color: orange;    
+}
+
+h3 {
+    background: green;
+    font-size:40px;
+    color: yellow;
+}
+
+#main-container{
+    margin: 150px auto;
+    width: 600px;
+}
+
+table {
+    background: white;
+    text-align: left;
+    color: black;
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+th, td {
+    padding: 2px;
+}
+
+
+
+thead{
+    background-color: aqua;
+    border-bottom: solid 5px #C0C0C0;
+    color: red;
+}
+
+tr:nth-child(even){
+    background-color: #ddd;
+    
+}
+
+tr:hover td{
+    background-color: #369681;
+    color: white;
+    
+}
